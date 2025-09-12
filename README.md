@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Happy0936/Leetcode_Programming/tree/master/0002-add-two-numbers) |
+| [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -17,8 +18,17 @@
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
