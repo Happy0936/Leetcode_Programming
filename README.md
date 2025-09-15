@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Happy0936/Leetcode_Programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Happy0936/Leetcode_Programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Happy0936/Leetcode_Programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Happy0936/Leetcode_Programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
