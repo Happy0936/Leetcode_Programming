@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Happy0936/Leetcode_Programming/tree/master/0002-add-two-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
@@ -48,4 +50,9 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
