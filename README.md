@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Happy0936/Leetcode_Programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Happy0936/Leetcode_Programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -49,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
