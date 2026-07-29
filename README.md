@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Happy0936/Leetcode_Programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
