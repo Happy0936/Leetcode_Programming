@@ -4,14 +4,15 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        z=x
-        a=0
-        while x>0:
-            b=x%10
-            a=a*10+b
-            x=x//10
-
-        if a==z:
+        if x<0:
+            return False
+        n=x
+        b=0
+        while n>0:
+            a=n%10
+            b=b*10+a
+            n=n//10
+        if b==x:
             return True
         else:
-            return False  
+            return False        
