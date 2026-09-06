@@ -16,6 +16,7 @@
 | [0326-power-of-three](https://github.com/Happy0936/Leetcode_Programming/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Happy0936/Leetcode_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
