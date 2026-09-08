@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
@@ -68,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
@@ -82,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Happy0936/Leetcode_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
