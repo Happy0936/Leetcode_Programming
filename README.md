@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Happy0936/Leetcode_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
@@ -84,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Happy0936/Leetcode_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Happy0936/Leetcode_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -105,5 +107,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Happy0936/Leetcode_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
