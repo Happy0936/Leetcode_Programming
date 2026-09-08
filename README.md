@@ -13,6 +13,7 @@
 | [0009-palindrome-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Happy0936/Leetcode_Programming/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Happy0936/Leetcode_Programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Happy0936/Leetcode_Programming/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -38,6 +39,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
@@ -53,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Happy0936/Leetcode_Programming/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Happy0936/Leetcode_Programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Happy0936/Leetcode_Programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
@@ -89,9 +93,14 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Happy0936/Leetcode_Programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/1137-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
