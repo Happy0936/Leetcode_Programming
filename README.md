@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Happy0936/Leetcode_Programming/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0179-largest-number) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Happy0936/Leetcode_Programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
@@ -39,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Happy0936/Leetcode_Programming/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Happy0936/Leetcode_Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Happy0936/Leetcode_Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Happy0936/Leetcode_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Database
