@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Happy0936/Leetcode_Programming/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2887-sort-vowels-in-a-string](https://github.com/Happy0936/Leetcode_Programming/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
@@ -77,6 +78,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Happy0936/Leetcode_Programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Happy0936/Leetcode_Programming/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
 |  |
 | ------- |
