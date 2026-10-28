@@ -79,6 +79,7 @@
 | [1006-vowel-spellchecker](https://github.com/Happy0936/Leetcode_Programming/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Happy0936/Leetcode_Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Happy0936/Leetcode_Programming/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Happy0936/Leetcode_Programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -101,11 +102,13 @@
 | [0509-fibonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/1137-n-th-tribonacci-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Happy0936/Leetcode_Programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Happy0936/Leetcode_Programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Happy0936/Leetcode_Programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Happy0936/Leetcode_Programming/tree/master/0268-missing-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Happy0936/Leetcode_Programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -128,4 +131,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Happy0936/Leetcode_Programming/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Happy0936/Leetcode_Programming/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
